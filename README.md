@@ -6,7 +6,7 @@
 
 Built as a single-file HTML tool — no installation needed. Just open and enjoy.
 
-![VOID RNG Preview](https://via.placeholder.com/800x500/1a1a2e/6b21a8?text=VOID+RNG+Studio)
+![VOID RNG Preview](https://pdragonlabs.github.io/random_number_generator/)
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ Built as a single-file HTML tool — no installation needed. Just open and enjoy
 
 Just download `void-rng.html` and open it in any browser.
 
-**[Try Live Demo](https://htmlpreview.github.io/?https://github.com/yourusername/void-rng/blob/main/void-rng.html)** *(replace with your repo link)*
+**[Try Live Demo](https://pdragonlabs.github.io/random_number_generator/)
 
 ## 📸 Screenshots
 
