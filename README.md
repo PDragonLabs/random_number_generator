@@ -6,7 +6,7 @@
 
 Built as a single-file HTML tool — no installation needed. Just open and enjoy.
 
-![VOID RNG Preview](https://pdragonlabs.github.io/random_number_generator/)
+![VOID RNG Preview](./random_number_generator.png)
 
 ## ✨ Features
 
